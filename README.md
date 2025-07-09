@@ -42,10 +42,4 @@ I’m passionate about coding, financial markets, and solving complex problems u
 
 ---
 
-> 🔗 [LinkedIn](https://linkedin.com/in/your-link)  
-> 🔗 [Medium / Blog](https://yourblog.medium.com) *(optional)*  
-> 🔗 [Leetcode](https://leetcode.com/yourprofile) *(optional)*
-
----
-
 🏁 *Goal: Land a quant internship by the start of Year 3.*
