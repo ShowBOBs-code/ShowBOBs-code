@@ -1,16 +1,51 @@
-## Hi there 👋
 
-<!--
-**ShowBOBs-code/ShowBOBs-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Rishi
 
-Here are some ideas to get you started:
+I'm a beginner programmer currently studying data science and building the skills to become a quant researcher.  
+I’m passionate about coding, financial markets, and solving complex problems using math and data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 What I’m Doing Right Now
+- Learning Python (NumPy, Pandas, Matplotlib, OOP)
+- Practicing algorithms & data structures on LeetCode
+- Studying statistics, probability, and linear algebra
+- Reading about trading strategies and quant finance
+- Building my first backtesting and data analysis projects
+
+---
+
+### 🛠️ Tech Stack (So Far)
+- **Languages:** Python (primary), SQL (beginner)
+- **Libraries:** NumPy, Pandas, Matplotlib, Seaborn
+- **Tools:** Jupyter Notebook, Git, GitHub, VSCode
+- **Topics I'm Exploring:**  
+  - Quant strategies (momentum, mean reversion)  
+  - Sharpe ratio, volatility, expected return  
+  - Real-time data from APIs
+
+---
+
+### 📈 Projects (WIP)
+- 🧪 **Simple Backtester** – Simulating moving average crossover strategies  
+- 📊 **Volatility Visualizer** – Analyzing asset volatility using market data  
+- 🧠 **LeetCode Log** – Tracking my DSA progress and problem-solving journey  
+- More coming soon...
+
+---
+
+### 📚 Currently Learning From
+- *“Quantitative Trading” by Ernest Chan*  
+- *“Options, Futures & Other Derivatives” by John Hull*  
+- CS50x & QuantConnect tutorials  
+- YouTube creators like Corey Schafer, QuantInsti, and 3Blue1Brown
+
+---
+
+> 🔗 [LinkedIn](https://linkedin.com/in/your-link)  
+> 🔗 [Medium / Blog](https://yourblog.medium.com) *(optional)*  
+> 🔗 [Leetcode](https://leetcode.com/yourprofile) *(optional)*
+
+---
+
+🏁 *Goal: Land a quant internship by the start of Year 3.*
